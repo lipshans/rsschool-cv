@@ -7,7 +7,7 @@ E-mail:                         lipshans.a@gmail.com
 Telegram                                  @telegaans
 
 Phone (Viber, WhatsApp)                +371 28246193
------------------------      ------------------------
+---------------------------------------------------------
 
 About myself
 -------------
