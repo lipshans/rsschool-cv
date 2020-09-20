@@ -22,12 +22,14 @@ body {
   width: 250px;
   margin: 5px;
 }
+
 */ .main {
   float: right;
 }
 
 h1 {
   margin-bottom: 0.7em;
+  display: inline-block;
 }
 
 h2 {
@@ -41,5 +43,5 @@ p {
 }
 
 li {
-  height: 2.5em;
+  margin: 1em;
 }
