@@ -1,2 +1,3 @@
-# rsschool-cv
-cv_RSschool
+[Link to my CV](https://lipshans.github.io/rsschool-cv/cv)
+adasdasda
+asdasdasd
